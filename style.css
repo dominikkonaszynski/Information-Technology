@@ -18,9 +18,10 @@ th {
     color: white;
 }
 
-td{
+td {
     border: black solid 2px;
 }
+
 p {
     font-size: larger;
     text-align: justify;
@@ -70,20 +71,23 @@ a {
 }
 
 .form-input {
-    background-color:lightskyblue;
+    background-color: lightskyblue;
 }
 
-input[type="submit"]{
+input[type="submit"] {
     background-color: green;
 }
-button{
+
+button {
     background-color: green;
 }
-textarea{
+
+textarea {
     background-color: blue;
 }
-ol{
-    list-style-type:upper-latin;
+
+ol {
+    list-style-type: upper-latin;
     border: 1px solid black;
     font-weight: bold;
 }
