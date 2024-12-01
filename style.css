@@ -13,17 +13,14 @@ img {
     text-align: right;
 }
 
-table {
-    border-collapse: collapse;
-    text-align: center;
-    margin: auto;
-}
-
 th {
     background-color: black;
     color: white;
 }
 
+td{
+    border: black solid 2px;
+}
 p {
     font-size: larger;
     text-align: justify;
@@ -70,4 +67,23 @@ a:hover {
 
 a {
     text-decoration: none;
+}
+
+.form-input {
+    background-color:lightskyblue;
+}
+
+input[type="submit"]{
+    background-color: green;
+}
+button{
+    background-color: green;
+}
+textarea{
+    background-color: blue;
+}
+ol{
+    list-style-type:upper-latin;
+    border: 1px solid black;
+    font-weight: bold;
 }
